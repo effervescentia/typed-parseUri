@@ -1,7 +1,7 @@
-# Typed Parseuri  [![CircleCI](https://circleci.com/gh/effervescentia/typed-parseuri.svg?style=svg)](https://circleci.com/gh/effervescentia/typed-parseuri)
+# Typed ParseUri  [![CircleCI](https://circleci.com/gh/effervescentia/typed-parseUri.svg?style=svg)](https://circleci.com/gh/effervescentia/typed-parseUri)
 
 
-The type definition for [`parseuri`](https://github.com/get/parseuri.git)
+The type definition for [`parseUri`](https://github.com/franzenzenhofer/parseUri.git)
 
 ## LICENSE
 

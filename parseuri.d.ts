@@ -1,4 +1,4 @@
-declare namespace parseuri {
+declare namespace parseUri {
   interface Options {
     strictMode: boolean;
     key: string[];
@@ -30,10 +30,10 @@ declare namespace parseuri {
   }
 }
 
-declare function parseuri(uri: string): parseuri.UriStructure;
+declare function parseUri(uri: string): parseUri.UriStructure;
 
-declare interface parseuri {
-  options: parseuri.Options;
+declare interface parseUri {
+  options: parseUri.Options;
 }
 
-export = parseuri;
+export = parseUri;

@@ -1,8 +1,8 @@
 {
-  "name": "parseuri",
-  "main": "index.d.ts",
-  "homepage": "https://github.com/get/parseuri",
-  "version": "0.0.4",
+  "name": "parseUri",
+  "main": "parseuri.d.ts",
+  "homepage": "https://github.com/package/parseUri",
+  "version": "1.2.3-2",
   "globalDevDependencies": {
     "node": "registry:env/node#6.0.0+20160918225031"
   },

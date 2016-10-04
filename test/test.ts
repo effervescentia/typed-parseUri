@@ -1,8 +1,8 @@
 import test = require('blue-tape');
 
-import parseuri = require('parseuri');
+import parseUri = require('parseUri');
 
-test('parseuri exists', (t) => {
+test('parseUri exists', (t) => {
   t.plan(1);
-  t.notEqual(parseuri, undefined);
+  t.notEqual(parseUri, undefined);
 });
