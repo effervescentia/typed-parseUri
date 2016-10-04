@@ -1,4 +1,4 @@
-# Typed Parseuri  [![Build Status](https://travis-ci.org/effervescentia/typed-parseuri.svg?branch=master)](https://travis-ci.org/effervescentia/typed-parseuri)
+# Typed Parseuri  [![CircleCI](https://circleci.com/gh/effervescentia/typed-parseuri.svg?style=svg)](https://circleci.com/gh/effervescentia/typed-parseuri)
 
 
 The type definition for [`parseuri`](https://github.com/get/parseuri.git)
