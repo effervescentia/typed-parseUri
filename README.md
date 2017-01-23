@@ -1,5 +1,7 @@
 # Typed ParseUri  [![CircleCI](https://circleci.com/gh/effervescentia/typed-parseUri.svg?style=svg)](https://circleci.com/gh/effervescentia/typed-parseUri)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/effervescentia/typed-parseUri.svg)](https://greenkeeper.io/)
+
 
 The type definition for [`parseUri`](https://github.com/franzenzenhofer/parseUri.git)
 
